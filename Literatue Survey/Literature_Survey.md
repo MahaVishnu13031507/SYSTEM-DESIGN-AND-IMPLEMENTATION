@@ -1,9 +1,5 @@
 # Literature Survey: Selected System Designs
 
-This document presents the academic and technical literature survey for the two selected cloud system design projects: **RouteSync** and **ChainSight**.
-
----
-
 ## 1. RouteSync: Real-Time Geospatial Dispatch Optimization for Ride-Sharing
 
 ### Reference Paper Details
@@ -48,7 +44,7 @@ This paper provides the sensor and edge scanner framework for ChainSight. ChainS
 
 ---
 
-## Comparative Literature Survey Matrix (Presentation Ready)
+## Comparative Literature Survey Matrix 
 
 | Aspect | Case Study 1: RouteSync (Ride-Sharing) | Case Study 2: ChainSight (IoT Inventory) |
 | :--- | :--- | :--- |
